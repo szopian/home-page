@@ -28,7 +28,7 @@ body {
 }
 
 .section .overlay {
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: rgba(0, 0, 0, 0.5);
   width: 100%;
   height: 100%;
   position: absolute;
@@ -36,7 +36,7 @@ body {
 }
 
 .section:hover .overlay {
-  background-color: rgba(0, 0, 0, 0.9);
+  background-color: rgba(0, 0, 0, 0.93);
 }
 
 .section .content {
