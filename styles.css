@@ -43,14 +43,14 @@ body {
   z-index: 2;
 }
 
-#before {
-  background-image: url("/images/octavian-rosca-SYbD0jfSF3s-unsplash.jpg");
+#left {
+  background-image: url("/images/yolanda-sun-rEnH56DV2vQ-unsplash.jpg");
 }
 
-#here {
+#center {
   background-image: url("/images/thom-XyNi3rUEReE-unsplash.jpg");
 }
 
-#later {
-  background-image: url("/images/yolanda-sun-rEnH56DV2vQ-unsplash.jpg");
+#right {
+  background-image: url("/images/octavian-rosca-SYbD0jfSF3s-unsplash.jpg");
 }
